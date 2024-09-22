@@ -4,10 +4,8 @@ This project is about using GAN (Generative Adversarial Network) using fashion M
 Dataset can be downloaded from:  https://github.com/zalandoresearch/fashion-mnist
 
 On that github, donwload: 
-- d
-- f
-- f
-- f
+- train-labels-idx1-ubyte
+- train-images-idx3-ubyte
 
 ## Process
 1. Load data and scaling
