@@ -92,4 +92,7 @@ On that github, donwload:
       - Every 10 epochs, the function shows a few generated images using `preview_generated_images`.
 
 6. FID score
-   
+   - Avg. FID :  10.04
+   - Std. FID : 5.271
+
+    Hasil FID pada model ini adalah 10.04, menandakan bahwa gambar yang dihasilkan oleh GAN sangat mirip dengan data aslinya hingga diskriminator mengira gambar yang dibuat merupakan gambar asli. Selain itu, standar deviasi FID nya adalah 5.271, menandakan bahwa variasi dari kualitas gambar relatif kecil.
